@@ -1,0 +1,15 @@
+{
+  "name": "rimonjavascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rimon.js",
+  "scripts": {
+    "start-dev": "rimon.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
